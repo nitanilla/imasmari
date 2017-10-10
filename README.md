@@ -15,6 +15,7 @@ Have a bug or an issue with this? [Open a new issue](https://github.com/nitanill
 
 ## Creators
 [@nitanilla](https://github.com/nitanilla)
+[@ekalmentero](https://github.com/ekalmentero)
 [@jcspl](https://github.com/jcspl)
 
 ## Copyright and License
